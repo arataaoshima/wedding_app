@@ -9,4 +9,7 @@ class WelcomeController < ActionController::Base
     def place
     end
     
+    def attendance
+    end
+    
 end
